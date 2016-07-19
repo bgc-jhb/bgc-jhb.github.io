@@ -183,6 +183,18 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        a {
+          color: #cc0066;
+
+          &:visited {
+              color: darken(#cc0066, 15%);
+          }
+
+          &:hover {
+              color: lighten(#cc0066, 15%);
+              text-decoration: underline;
+          }
+        }
     }
 }
 
