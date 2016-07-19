@@ -9,11 +9,11 @@
 title: Black Girls Code - Johannesburg
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  image. build. create.
+  imagine. build. create.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bgc-jhb.github.io" # the base hostname & protocol for your site
 github_username: bgc-jhb
-twitter_username:
+twitter_username: BlackGirlsCode
 facebook_name: BlackGirlsCodeJohannesburg
 
 # Build settings
